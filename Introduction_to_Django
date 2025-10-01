@@ -1,6 +1,1 @@
 
-if [ -s LibraryProject/README.md ]; then
-  echo "✅ Non-empty README.md exists."
-else
-  echo "❌ README.md is missing or empty."
-fi
